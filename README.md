@@ -1,4 +1,4 @@
-# Smart Question Generator
+# Question Generation
 
 ## Version: 1.0
 
