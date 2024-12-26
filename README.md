@@ -62,7 +62,7 @@ This project is open-source and highly extensible, allowing other developers to 
 ---
 
 ## Acknowledgments
-I extend my deepest gratitude to **Eng. Khaled Al-Ghamdi** for his invaluable guidance and support throughout this project. Special thanks to my family and colleagues for their encouragement and support.
+I extend my deepest gratitude to **Eng. Khaled Al-Ghamdi** for his invaluable guidance and support throughout this project. 
 
 ---
 
