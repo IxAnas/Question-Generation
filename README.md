@@ -8,12 +8,6 @@ Anas Alharbi
 ### Submitted To:
 Eng. Khaled Al-Ghamdi  
 
-### Submission Date:
-December 25, 2024  
-
-### Institution:
-Technical College for Communications and Information Technology - Jeddah  
-
 ---
 
 ## Introduction
